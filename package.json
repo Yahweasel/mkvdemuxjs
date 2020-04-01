@@ -1,6 +1,6 @@
 {
   "name": "mkvdemuxjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MKV demuxer in pure JavaScript",
   "main": "mkvdemux.js",
   "scripts": {

@@ -504,7 +504,7 @@ var mkvdemuxjs = (function(mkvdemuxjs) {
 
             // Rest: The actual data
             var frame = {
-                data: new Uint8Array(cont.buffer).slice(4, len - 4).buffer,
+                data: new Uint8Array(cont.buffer).slice(4, len).buffer,
                 track: track,
                 timestamp: timestamp
             };
