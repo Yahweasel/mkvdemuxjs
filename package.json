@@ -1,0 +1,28 @@
+{
+  "name": "mkvdemuxjs",
+  "version": "1.0.0",
+  "description": "MKV demuxer in pure JavaScript",
+  "main": "mkvdemux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahweasel/mkvdemuxjs.git"
+  },
+  "keywords": [
+    "matroska",
+    "mkv",
+    "demuxer",
+    "media",
+    "audio",
+    "video",
+    "webm"
+  ],
+  "author": "Yahweasel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yahweasel/mkvdemuxjs/issues"
+  },
+  "homepage": "https://github.com/Yahweasel/mkvdemuxjs#readme"
+}
